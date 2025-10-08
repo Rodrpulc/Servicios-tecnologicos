@@ -9,7 +9,9 @@ Sistema web en *PHP + MySQL + Bootstrap* para gestionar *servicios, **tickets de
 - Veruska Aguas Castelar  
 - Rodrigo Pulido Castellanos  
 - Jonathan Felipe Cruz Rodríguez  
-- Jeisson Camilo López Bello  
+- Jeisson Camilo López Bello
+- Victor Manuel Henao Galvis 
+ 
 
 
 ---
